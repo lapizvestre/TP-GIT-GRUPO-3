@@ -12,3 +12,5 @@ El sistema contará con una interfaz sencilla que permitirá al usuario visualiz
 
 Para mejorar la precisión del reconocimiento, el guante utilizará sensores de flexión y movimiento que registrarán la posición de cada dedo.
 
+Este proyecto busca facilitar la inclusión social de las personas sordomudas, mejorando su comunicación con quienes no conocen el lenguaje de señas.
+
