@@ -1,4 +1,5 @@
 # TP-GRUPO-3
+ HEAD
 
 Proyecto Integrador
 
@@ -14,3 +15,5 @@ Para mejorar la precisión del reconocimiento, el guante utilizará sensores de 
 
 Este proyecto busca facilitar la inclusión social de las personas sordomudas, mejorando su comunicación con quienes no conocen el lenguaje de señas.
 
+
+ devel
