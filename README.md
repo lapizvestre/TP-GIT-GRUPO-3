@@ -8,5 +8,5 @@ Va a comparar las formas de las manos con el lenguaje de señas y lo va a traduc
 
 
 
-Hola me llamo Ivan
+El sistema contará con una interfaz sencilla que permitirá al usuario visualizar en tiempo real la traducción de las señas en texto y audio.
 
